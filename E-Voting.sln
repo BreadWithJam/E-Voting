@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34018.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "E-Voting", "E-Voting\E-Voting.vbproj", "{F0A3DAC1-B6EC-4E45-B00A-1405F3BFCE95}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "eVotingSetUp", "eVotingSetUp\eVotingSetUp.vdproj", "{B1542337-37D5-42C1-914D-1F0F94DFF195}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F0A3DAC1-B6EC-4E45-B00A-1405F3BFCE95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F0A3DAC1-B6EC-4E45-B00A-1405F3BFCE95}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F0A3DAC1-B6EC-4E45-B00A-1405F3BFCE95}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F0A3DAC1-B6EC-4E45-B00A-1405F3BFCE95}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B1542337-37D5-42C1-914D-1F0F94DFF195}.Debug|Any CPU.ActiveCfg = Debug
+		{B1542337-37D5-42C1-914D-1F0F94DFF195}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EB493C07-79DE-4DB5-A65C-1FA4EA701D51}
+	EndGlobalSection
+EndGlobal
